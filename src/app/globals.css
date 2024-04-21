@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #010101;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #080808;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #101010;
+  border-radius: 40px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #181818;
+}
+
+@font-face {
+  font-family: Galano;
+  src: url("../app/fonts/GalanoGrotesqueMedium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Oceanwide;
+  src: url("../app/fonts/Oceanwide-Semibold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Futura;
+  src: url("../app/fonts/FuturaBold.ttf") format("truetype");
+}
+
+#headerr {
+  text-shadow:1px 1px 7px rgb(0, 102, 255);
+}

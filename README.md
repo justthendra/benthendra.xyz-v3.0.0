@@ -26,7 +26,7 @@ To learn more about React, take a look at the following resources:
 - [Learn React](https://reactjs.org/docs/getting-started.html#learn-react) - an interactive Next.js tutorial.
 
 ## 🔒 License
-> MIT
+> GNU V3.0
 
 ## ⭐ Star
  - Don't forget to star this repo for support :)
